@@ -13,10 +13,10 @@ Users can reload the page to see new profiles, and a search feature allows quick
 ## 📸 Screenshots
 
 ### Internet not disabled
-![Internet not disabled](screenshots/Internet not disabled.png)
+![Internet not disabled](screenshots/Internet-not-disabled.png)
 
 ### Internet disabled
-![Internet disabled](screenshots/Internet disabled.png)
+![Internet disabled](screenshots/Internet-disabled.png)
 
 ## 🛠 Tech Stack
 - HTML
